@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-image: url(Signinphotos/bg.49756b7c711696d95133fa95451f8e13.svg);
+}
+.container{
+    width: 1536px;
+    height: 540.4px;
+    background-color: rebeccapurple;
+    margin-top: 107px;
+    display: flex;
+    /* justify-content: center; */
+}
+.left{
+    width: 500px;
+    height: 540px;
+    background-color: #0b0909;
+    margin-left: 21%;
+}
+.right{
+    width: 390px;
+    height: 540.4px;
+    background-color: gray;
+}
+.left-inside{
+    width: 398.4px;
+    height: 445px;
+    background-color: #ffffff;
+    margin-left: 50px;
+    margin: 50px;
+    display: flex;
+}
+.zoho{
+    display: flex;
+    width: 398.4px;
+    height: 40px;
+}
+.pp{
+    padding: 10px 16px;
+    background-color: #3949BE;
+    border-radius: 90px;
+}
